@@ -1,2 +1,0 @@
-# PurpleRain
-Dofus theme
